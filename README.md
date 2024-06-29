@@ -13,6 +13,7 @@ This is my portfolio, where I'll keep track and document my projects.
 
 | Project | Contents | Description |
 | ------- | ----- | ----------- |
+| [SQL_Job_Project](https://github.com/ManuelMPinto/SQL_Project_Data_Job_Analysis.git) | SQL | In-Progress |
 
 ## 🐍 Python Projects
 
