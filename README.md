@@ -13,13 +13,12 @@ This is my portfolio, where I'll keep track and document my projects.
 
 | Project | Contents | Description |
 | ------- | ----- | ----------- |
-|[ Species Analysis](#https://github.com/ManuelMPinto/Species-Analysis) | Python, Data Cleaning, Data Visualization | Unfinished |
 
 ## 🐍 Python Projects
 
 | Project | Contents | Description |
 | ------- | ----- | ----------- |
-| [ Species Analysis](#https://github.com/ManuelMPinto/Species-Analysis) | Python, Data Cleaning, Data Visualization | Unfinished |
+| [Species-Analysis](https://github.com/ManuelMPinto/Species-Analysis.git) | Python, Data Cleaning, Data Visualization | Unfinished |
 
 ## 🇷 R
 
