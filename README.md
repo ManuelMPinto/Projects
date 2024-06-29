@@ -4,7 +4,7 @@ This is my portfolio, where I'll keep track and document my projects.
 
 ## 📚 Table of Contents
 
-- [SQL](#data-science)
+- [SQL](#sql)
 - [Python](#python-projects)
 - [R](#r)
 - [Tableau](#tableau)
