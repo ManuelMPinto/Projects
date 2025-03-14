@@ -40,7 +40,7 @@ This is my portfolio, where I'll keep track and document my projects.
 
 | Project | Contents | Description |
 | ------- | ----- | ----------- |
-| [Psychoacoustics-Reports](https://github.com/ManuelMPinto/Psychoacoustics-Reports.git) | Matlab, Excel, Data Visualization | <code style="color : gold">In-Progress</code> > |
+| [Psychoacoustics-Reports](https://github.com/ManuelMPinto/Psychoacoustics-Report.git) | Matlab, Excel, Data Visualization | <code style="color : gold">In-Progress</code> > |
 
 Feel free to connect with me on [LinkedIn](#https://www.linkedin.com/in/manuel-pinto-100355264/) 
 
