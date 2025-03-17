@@ -4,11 +4,18 @@ This is my portfolio, where I'll keep track and document my projects.
 
 ## 📚 Table of Contents
 
-- [SQL](#sql)
-- [Python](#python-projects)
-- [R](#r)
-- [Tableau & Power BI](#tableau)
-- [Matlab](#matlab)
+- [Bachelor's Project](#
+- [SQL](#-sql)
+- [Python](#-python-projects)
+- [R](#-r)
+- [Tableau & Power BI](#-tableau--power-bi)
+- [Matlab](#-matlab)
+
+## Bachelor's Project
+
+| Project | Contents | Description |
+| ------- | ----- | ----------- |
+| [Environmental Enrichment Octopus vulgaris](https://github.com/ManuelMPinto/Environmental-Enrichment-Octopus)) | Excel, GraphPad | <code style="color : gold">In-Translation</code> |
 
 ## 📊 SQL
 
