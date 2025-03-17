@@ -15,7 +15,7 @@ This is my portfolio, where I'll keep track and document my projects.
 
 | Project | Contents | Description |
 | ------- | ----- | ----------- |
-| [Environmental Enrichment Octopus vulgaris](https://github.com/ManuelMPinto/Environmental-Enrichment-Octopus)) | Excel, GraphPad | <code style="color : gold">In-Translation</code> |
+| [Environmental Enrichment Octopus vulgaris](https://github.com/ManuelMPinto/Environmental-Enrichment-Octopus) | Excel, GraphPad | <code style="color : gold">In-Translation</code> |
 
 ## 📊 SQL
 
