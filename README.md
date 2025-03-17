@@ -4,7 +4,7 @@ This is my portfolio, where I'll keep track and document my projects.
 
 ## 📚 Table of Contents
 
-- [Bachelor's Project](#
+- [Bachelor's Project](#bachelor-project)
 - [SQL](#-sql)
 - [Python](#-python-projects)
 - [R](#-r)
